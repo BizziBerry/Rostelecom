@@ -8,6 +8,6 @@
 - Библиотеки:TerraSegmentation, Pandas, NumPy, OpenCV, Matplotlib, Plotly, Seaborn
 - Обученные модели сегментации: U-net, PSP
 - Дополнительные инструменты: Github, OpenAI ChatGPT
-  ## Контакты
+## Контакты
 - Email: anelia.education@yahoo.com
 - Telegram: [@hakunaaa_matataaaaa](https://t.me/hakunaaa_matataaaaa)
