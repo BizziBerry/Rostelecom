@@ -5,8 +5,8 @@
 ## Технологии
 - Языки программирования:  Python
 - Среда разработки: Google Colab
-- Библиотеки:TerraSegmentation, Pandas, NumPy, OpenCV, Matplotlib, Plotly, Seaborn
-- Обученные модели сегментации: U-net, PSP
+- Библиотеки: TerraSegmentation,TensorFlow/Keras, Pandas, NumPy, OpenCV, Matplotlib, Plotly, Seaborn
+- Обученные модели: U-net, PSP
 - Дополнительные инструменты: Github, OpenAI ChatGPT
 ## Контакты
 - Email: anelia.education@yahoo.com
